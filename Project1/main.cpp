@@ -1,3 +1,6 @@
+//Martinez Jarquin Ricardo Eduardo
+
+
 /* Este programa dibuja una "Tetera", este objeto esta definido
  * en GLUT, se crea una fuente de luz, y un material */
 
